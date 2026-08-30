@@ -46,13 +46,6 @@ Personal portfolio site showcasing my projects and background.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ranitgorai-hash&show_icons=true&theme=tokyonight&hide_border=true" alt="Ranit's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranitgorai-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos or connect on LinkedIn!</i></p>
