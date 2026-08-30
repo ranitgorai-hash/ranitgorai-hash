@@ -46,6 +46,4 @@ Personal portfolio site showcasing my projects and background.
 
 ---
 
----
-
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos or connect on LinkedIn!</i></p>
