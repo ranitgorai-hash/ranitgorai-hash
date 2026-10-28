@@ -14,7 +14,7 @@
 - 🔬 Research intern @ **IISc Bangalore's CRIS Lab**, under Prof. Arpita Patra — secure multi-party computation & cryptography
 - 🏆 Invited to **Google's GSEC India Research Day**
 - ⚡ Interests: digital hardware design (Verilog, RISC-V), full-stack web development, competitive programming
-- 🌱 Currently building **Macro Sheet** — a calorie & macronutrient tracker PWA
+- 🌱 Currently building **Shamir-mpc** — Shamir's Secret Sharing
 
 ---
 
